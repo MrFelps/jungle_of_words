@@ -20,6 +20,7 @@ Atualmente, a integração com Modelos de Visão e Linguagem de Grande Escala (L
 
 A arquitetura do *Jungle of Words* contorna esses limitadores com **Processamento 100% Offline, Zero Cost API e Ultra Baixa Latência.**  
 O motor compila e classifica toda a matriz vetorial da imagem nativamente em **menos de 1 segundo**. Ao erradicar o atrito da digitação humana através da injeção autônoma via *clipboard*, o software garantiu uma **redução drástica de 75% no tempo total da operação** por consulta, entregando uma aceleração no fluxo de trabalho de ponta a ponta **400% mais rápida** do que a capacidade puramente humana.
+
 ---
 
 ## 🔬 Arquitetura Técnica: Um "Deep Dive" no Pipeline
