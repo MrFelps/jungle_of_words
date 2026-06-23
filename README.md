@@ -2,7 +2,7 @@
 
 <img width="1536" height="1024" alt="intro" src="https://github.com/user-attachments/assets/c761724c-0376-4b07-9755-88bfd94f0dbf" />
 
-> **"Uma selva de caracteres complexos, domada de forma instantânea pela Inteligência Artificial."**
+
 
 ## 🎯 O Problema (A Dor)
 Em ambientes de alta demanda operacional, a resolução manual de verificações de segurança visuais (Captchas) baseados em texto se torna um gigantesco gargalo de produtividade. O esforço repetitivo não apenas fatiga o operador, mas também trava o fluxo de trabalho contínuo. 
