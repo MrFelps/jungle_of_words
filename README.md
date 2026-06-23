@@ -5,7 +5,7 @@
 
 > **"Uma selva de caracteres complexos, domada de forma instantânea pela Inteligência Artificial e Visão Computacional."**
 
-## 🎯 O Desafio da Produtividade em Escala
+## 🎯 O Problema: A Dor da Operação Manual
 Em cenários de alta demanda operacional, a resolução manual de verificações de segurança visuais (Captchas) baseados em texto frequentemente se apresenta como um severo gargalo de produtividade. O esforço contínuo e repetitivo não apenas induz à fadiga da operação, mas também fragmenta o fluxo de trabalho automatizado.
 
 Antes da implementação desta arquitetura, a capacidade média de processamento situava-se na marca de **100 consultas diárias por operador**. Com a introdução do motor inteligente do **Jungle of Words**, o tempo de ociosidade e as intervenções manuais de digitação foram mitigados quase integralmente, viabilizando um salto de **150% na eficiência e produtividade diária**.
