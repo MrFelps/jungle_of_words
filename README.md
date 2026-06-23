@@ -1,10 +1,6 @@
 # Jungle of Words 🌴
 
-<div align="center">
-  <img src="intro.png" alt="Jungle of Words Intro">
-</div>
-
-<br>
+<img width="1536" height="1024" alt="intro" src="https://github.com/user-attachments/assets/c761724c-0376-4b07-9755-88bfd94f0dbf" />
 
 > **"Uma selva de caracteres complexos, domada de forma instantânea pela Inteligência Artificial."**
 
@@ -30,9 +26,7 @@ O *Jungle of Words* processa e classifica toda a matriz de pixels localmente, se
 
 A ferramenta não "chuta" as respostas através de algoritmos heurísticos falhos. Ela possui um "cérebro" treinado localmente usando Visão Computacional Avançada e o algoritmo matemático **KNN (K-Nearest Neighbors)**.
 
-<div align="center">
-  <img src="controle_jungle.png" alt="Interface de Operação (Jungle Console)" width="800">
-</div>
+<img width="848" height="726" alt="controle_jungle" src="https://github.com/user-attachments/assets/efc18aec-80cd-4b8a-bd2c-0af5600a9f22" />
 
 ### O Fluxo de Execução
 1. **Captura em Tempo Real:** Ao invés de o usuário ter que baixar e subir arquivos, ele simplesmente aperta o atalho de teclado global `Ctrl+Alt+S`. A tela escurece e abre uma interface limpa de "Recorte" (Snipping Tool).
@@ -40,9 +34,7 @@ A ferramenta não "chuta" as respostas através de algoritmos heurísticos falho
 3. **Classificação via Memória (KNN):** Cada letra fatiada é convertida em um formato padrão `32x32`, transformada num vetor numérico gigantesco e comparada simultaneamente contra milhares de outros exemplos de caracteres no nosso Banco de Memória offline. O algoritmo procura o "vizinho numérico mais próximo" para confirmar com 99% de precisão de qual letra se trata.
 4. **Clipboard Automático:** Em milissegundos, a palavra completa é injetada na Área de Transferência do sistema (`Ctrl+C`), enquanto emite um aviso sonoro (Bip) de sucesso!
 
-<div align="center">
-  <img src="captcha_photo.png" alt="Exemplo prático de Captcha Lida" width="600">
-</div>
+<img width="420" height="151" alt="captcha_photo" src="https://github.com/user-attachments/assets/c52eb50e-1356-494e-bdce-2947abc9de3c" />
 
 ---
 
