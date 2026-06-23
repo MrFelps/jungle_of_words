@@ -61,15 +61,20 @@ A resposta em texto passa por um `join()`, é colada de forma invisível direto 
 
 ---
 
-## 🚀 Como Executar o Software Comercial
+## 🚀 Como Baixar e Executar o Software (Para a Equipe)
 
-Esse projeto não é apenas um script, mas um software empacotado e compilado de forma industrial em um arquivo `.exe`. O seu computador não precisa de bibliotecas nem do Python instalado.
+O sistema foi compilado de forma industrial e está pronto para uso imediato em qualquer computador Windows. Você não precisa instalar bibliotecas nem o Python! Siga os passos:
 
-1. Navegue até a pasta de distribuição oficial (`dist/Jungle_of_Words`).
-2. Dê um duplo clique mágico no arquivo **`Jungle_of_Words.exe`**.
-3. A nossa interface "Jungle Console" gráfica abrirá ostentando a arte visual de abertura.
-4. Pressione `ENTER` no terminal para ligar os motores.
-5. Deixe a janela rodando ou minimizada no fundo! Sempre que esbarrar em um obstáculo de texto, pressione **`Ctrl+Alt+S`**, selecione e cole a resposta mágica (`Ctrl+V`).
+### Passo 1: Como Baixar do GitHub
+1. No topo desta página, clique no botão verde **"<> Code"**.
+2. No menu que abrir, clique em **"Download ZIP"**.
+3. Vá até a sua pasta de Downloads e extraia o arquivo ZIP para o seu computador (ex: Área de Trabalho).
+
+### Passo 2: Como Executar
+1. Dentro da pasta que você extraiu, navegue até a pasta de distribuição: `dist/Jungle_of_Words`.
+2. Encontre e dê um duplo clique no arquivo **`Jungle_of_Words.exe`**.
+3. A nossa interface "Jungle Console" abrirá. Pressione `ENTER` na tela preta para ligar os motores.
+4. Deixe a janela minimizada rodando no fundo! Sempre que precisar de uma leitura visual, pressione **`Ctrl+Alt+S`**, selecione e cole a resposta mágica (`Ctrl+V`).
 
 ---
 
