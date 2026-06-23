@@ -3,8 +3,6 @@
 <img width="1536" height="1024" alt="intro" src="https://github.com/user-attachments/assets/c761724c-0376-4b07-9755-88bfd94f0dbf" />
 
 
-> **"Uma selva de caracteres complexos, domada de forma instantânea pela Inteligência Artificial e Visão Computacional."**
-
 ## 🎯 O Problema: A Dor da Operação Manual
 Em cenários de alta demanda operacional, a resolução manual de verificações de segurança visuais (Captchas) baseados em texto frequentemente se apresenta como um severo gargalo de produtividade. O esforço contínuo e repetitivo não apenas induz à fadiga da operação, mas também fragmenta o fluxo de trabalho automatizado.
 
