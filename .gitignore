@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+build/
+dist/
+*.spec
+*.ico
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Ambiente Virtual e Env
+venv/
+env/
+.env
+
+# Outros
+*.bak
+*.tmp
