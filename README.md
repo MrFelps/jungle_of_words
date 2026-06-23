@@ -16,11 +16,10 @@ Antes da implementação desta arquitetura, a capacidade média de processamento
 Atualmente, a integração com Modelos de Visão e Linguagem de Grande Escala (LLMs), como a API do Google Gemini Pro Vision ou ChatGPT-4V, representa um caminho viável para a solução de enigmas visuais. Contudo, a aplicação comercial dessas APIs em regime de alto tráfego encontra dois atritos fundamentais:
 
 1. **Escalabilidade de Custos:** APIs de visão computacional corporativas operam sob tarifação por requisição. Em um ecossistema com milhares de interações diárias, o custo diluído por operação compromete severamente a viabilidade financeira da automação contínua.
-2. **Latência Inerente:** A dependência da infraestrutura de rede para o tráfego bidirecional das matrizes de imagem aos servidores remotos adiciona uma latência indesejada (em média 3 a 5 segundos por transação).
+2. **Latência Inerente e o Gargalo Humano:** Enquanto ferramentas em nuvem adicionam latência de rede contínua apenas para o tráfego das imagens, o verdadeiro gargalo sempre foi a operação manual. No fluxo mecânico tradicional, a operação total de um único Captcha (decifrar visualmente, digitar os caracteres no teclado e validar a pesquisa) consumia recursos massivos de tempo da equipe.
 
-A arquitetura do *Jungle of Words* contorna esses limitadores adotando uma estratégia oposta: **Processamento 100% Offline, Otimização Estrutural (Zero Cost API) e Ultra Baixa Latência.**  
-O motor compila e classifica toda a matriz vetorial da imagem de forma nativa e em ambiente fechado, entregando a string de dados estruturada diretamente na área de transferência do usuário em **menos de 1 segundo**.
-
+A arquitetura do *Jungle of Words* contorna esses limitadores com **Processamento 100% Offline, Zero Cost API e Ultra Baixa Latência.**  
+O motor compila e classifica toda a matriz vetorial da imagem nativamente em **menos de 1 segundo**. Ao erradicar o atrito da digitação humana através da injeção autônoma via *clipboard*, o software garantiu uma **redução drástica de 75% no tempo total da operação** por consulta, entregando uma aceleração no fluxo de trabalho de ponta a ponta **400% mais rápida** do que a capacidade puramente humana.
 ---
 
 ## 🔬 Arquitetura Técnica: Um "Deep Dive" no Pipeline
